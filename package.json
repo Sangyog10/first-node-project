@@ -1,0 +1,17 @@
+{
+  "name": "project-farm",
+  "version": "1.0.0",
+  "description": "This is my first node js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Sangyog Puri",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}
